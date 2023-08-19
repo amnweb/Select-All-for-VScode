@@ -4,14 +4,23 @@
 	"description": "Select All (Right Click Menu)",
 	"version": "0.0.1",
 	"publisher": "Gaga-Dev",
-	"icon": "icon.png",
-	"repository":"private",
-	"engines": {
-		"vscode": "^1.36.0"
-	},
+	"icon": "images/icon.png",
+	"pricing": "Free",
+	"keywords": [
+		"select all",
+		"context menu",
+		"right click"
+	],
 	"categories": [
 		"Other"
 	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/forumwt/Select-All-for-VScode"
+	},
+	"engines": {
+		"vscode": "^1.81.0"
+	},
 	"activationEvents": [
 		"onCommand:extension.select-all"
 	],
