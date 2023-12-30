@@ -2,7 +2,7 @@
 	"name": "select-all",
 	"displayName": "Select All",
 	"description": "Select All (Right Click Menu)",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "Gaga-Dev",
 	"icon": "images/icon.png",
 	"pricing": "Free",

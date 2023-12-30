@@ -1,4 +1,4 @@
 # Select All 
-Select All function in right click menu. You can use it in active editor tab.
+"Add a 'Select All' function to the right-click context menu, which you can use in the active editor tab."
 
 ![Select All](images/screenshot.png?raw=true)
